@@ -1,0 +1,145 @@
+  {"offerExtened":[
+      {
+        "name":"Anil Kapoor",
+        "data":{
+          "extendedDate":"21 Jul 2020",
+          "offerAccepted":"23 Jul 2020",
+          "joining":"1 sep 2020",
+          "status":"yes",
+          "bv":"yes",
+          "comments":"Metus etiam. Platea aliquet vulputate. Egestas. Lacinia ultrices. Pharetra. Quisque odio morbi sod tea aliquet vulputate.teame"
+        }
+      }],
+      "prospects":[{
+        "name":"Aniket Joshi",
+        "location":"Mumbai",
+        "designation":"Director, Piramal Enterprises",
+        "data":{
+          "interviewSchedule":{
+            "personOne":{
+              "interviewDate":"1 Jul 2018",
+              "status":"complete",
+              "hireStatus":"hired"
+            },
+            "personTwo":{
+              "interviewDate":"1 Jul 2018",
+              "status":"complete",
+              "hireStatus":"AwaitingFeedBack"
+            },
+            "personThree":{
+              "interviewDate":"1 Jul 2018",
+              "status":"complete",
+              "hireStatus":"Undecided"
+            },
+            "personFour":{
+              "interviewDate":"1 Jul 2018",
+              "status":"notStarted",
+              "hireStatus":"NA"
+            }
+          },
+          "leads":"7",
+          "captured":"3",
+          "comments":"Metus etiam. Platea aliquet vulputate. Egestas. Lacinia ultrices. Pharetra. Quisque odio morbi sod tea aliquet vulputate.teamelatea aliquet vulputate. Egestas. Lacinia ultrices QuisqueQuisqueQuisqueQuklloojjdjuee"
+        }
+      },
+      {
+        "name":"Kunjan Kumar",
+        "designation":"Director, Housing and Development…",
+        "location":"New Delhi",
+        "data":{
+          "interviewSchedule":{
+            "personOne":{
+              "interviewDate":"1 Jul 2018",
+              "status":"complete",
+              "hireStatus":"hired"
+            },
+            "personTwo":{
+              "interviewDate":"1 Jul 2018",
+              "status":"complete",
+              "hireStatus":"AwaitingFeedBack"
+            },
+            "personThree":{
+              "interviewDate":"1 Jul 2018",
+              "status":"complete",
+              "hireStatus":"rejected"
+            },
+            "personFour":{
+              "interviewDate":"1 Jul 2018",
+              "status":"notStarted",
+              "hireStatus":"NA"
+            }
+          },
+          "leads":"7",
+          "captured":"3",
+          "comments":"No Comments"
+        }
+      },
+      {
+        "name":"Kunal Kamra",
+        "designation":"Director, Piramal Enterprises",
+        "location":"Mumbai",
+        "data":{
+          "interviewSchedule":{
+            "personOne":{
+              "interviewDate":"1 Jul 2018",
+              "status":"complete",
+              "hireStatus":"hired"
+            },
+            "personTwo":{
+              "interviewDate":"1 Jul 2018",
+              "status":"complete",
+              "hireStatus":"AwaitingFeedBack"
+            },
+            "personThree":{
+              "interviewDate":"1 Jul 2018",
+              "status":"complete",
+              "hireStatus":"rejected"
+            },
+            "personFour":{
+              "interviewDate":"1 Jul 2018",
+              "status":"notStarted",
+              "hireStatus":"NA"
+            }
+          },
+          "leads":"7",
+          "captured":"3",
+          "comments":"Metus etiam. Platea aliquet vulputate. Egestas. Lacinia ultrices. Pharetra. Quisque odio morbi sod tea aliquet vulputate.teame"
+        }
+      }
+
+    ],
+    "dropped":[
+      {
+        "name":"Shridhar Joshi",
+        "designation":"Director, Piramal Enterprises",
+        "location":"Mumbai",
+        "data":{
+          "interviewSchedule":{
+            "personOne":{
+              "interviewDate":"1 Jul 2018",
+              "status":"complete",
+              "hireStatus":"rejected"
+            },
+            "personTwo":{
+              "interviewDate":"1 Jul 2018",
+              "status":"complete",
+              "hireStatus":"rejected"
+            },
+            "personThree":{
+              "interviewDate":"1 Jul 2018",
+              "status":"notStarted",
+              "hireStatus":"NA"
+            },
+            "personFour":{
+              "interviewDate":"1 Jul 2018",
+              "status":"notStarted",
+              "hireStatus":"NA"
+            }
+          },
+          "leads":"4",
+          "captured":"3",
+          "comments":"Metus etiam. Platea aliquet vulputate. Egestas. Lacinia ultrices. Pharetra. Quisque odio morbi sod tea aliquet vulputate.teame "
+        }
+      }
+    ]
+  }
